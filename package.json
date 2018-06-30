@@ -1,0 +1,30 @@
+{
+  "name": "wec-front-web-message",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run jest",
+    "jest": "jest"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^23.2.0",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^23.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wecfin/wec-front-web-message.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wecfin/wec-front-web-message/issues"
+  },
+  "homepage": "https://github.com/wecfin/wec-front-web-message#readme",
+  "dependencies": {
+    "gap-front-web": "^1.2.11"
+  }
+}
